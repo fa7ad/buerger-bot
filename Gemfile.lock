@@ -1,7 +1,9 @@
 PATH
   remote: .
   specs:
-    buergerbot (0.1.1)
+    buergerbot (0.2.0)
+      terminal-notifier (~> 2.0)
+      watir (~> 7.1)
 
 GEM
   remote: https://rubygems.org/
