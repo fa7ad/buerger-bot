@@ -7,13 +7,13 @@ BuergerBot is a bot for finding appointments at the Bürgeramt in Berlin.
 IDK (not a ruby guy), probably goes something like:
 
 ```bash
-$ gem install buerger-bot
+$ gem install buergerbot
 ```
 
 ## Usage
 
 ```sh
-$ buerger-bot
+$ buergerbot
 ```
 
 ## Development

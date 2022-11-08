@@ -3,5 +3,5 @@
 
 require 'buergerbot/bot'
 
-bot = BuergerBot::Bot.new
+bot = BuergerBot::Robot.new
 bot.run
